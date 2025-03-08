@@ -1,4 +1,4 @@
-# SSH Key Generator
+# Private Keys Generator
 
 A simple and efficient tool for generating evm-compatible private keys. This tool allows you to generate multiple private keys automatically saves them in a designated files
 
