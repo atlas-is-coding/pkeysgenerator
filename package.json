@@ -1,0 +1,15 @@
+{
+  "name": "pkeysgenerator",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "enquirer": "^2.4.1",
+    "ethers": "^6.13.5"
+  }
+}

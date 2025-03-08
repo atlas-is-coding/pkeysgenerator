@@ -1,0 +1,4 @@
+[paths]
+root_dir = ""  # Automatic set in TypeScript
+files_dir = "${root_dir}/files"
+output_file = "${files_dir}/output.txt"
